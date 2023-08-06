@@ -1,0 +1,2 @@
+streamli==0.73.1
+streamlit-analytics
